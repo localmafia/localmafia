@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LOCAL MAFIA ESPORTS
 
 You can use the [editor on GitHub](https://github.com/localmafia/localmafia/edit/lm/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
